@@ -1,0 +1,12 @@
+.max {
+  height: 100%;
+  opacity: 0;
+  width: 100%;
+}
+.app {
+  height: 100%;
+}
+* {
+  font-family: "Ubuntu";
+  font-weight: 200;
+}
